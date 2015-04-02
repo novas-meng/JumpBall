@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/ach_background" >
+
+      <ImageView
+          android:id="@+id/ach1"
+          android:layout_width="543px"
+          android:layout_height="213px"
+          android:layout_x="72px"
+          android:layout_y="153px"
+          android:clickable="true"
+          android:src="@drawable/ach_1_1" />
+        <ImageView
+            android:id="@+id/ach2"
+            android:layout_y="174px"
+            android:layout_x="711px"
+            android:layout_width="489px"
+            android:layout_height="192px"
+            android:clickable="true"
+            android:src="@drawable/ach_2_1"
+             />
+
+        <ImageView
+            android:id="@+id/ach3"
+            android:layout_width="486px"
+            android:layout_height="211.5px"
+            android:layout_x="1252.5px"
+            android:layout_y="154.5px"
+            android:clickable="true"
+            android:src="@drawable/ach_3_1" />
+
+        <ImageView
+            android:id="@+id/ach4"
+            android:layout_width="469.5px"
+            android:layout_height="142.5px"
+            android:layout_x="124.5px"
+            android:layout_y="379.5px"
+            android:clickable="true"
+            android:src="@drawable/ach_4_1" />
+
+        <ImageView
+            android:id="@+id/ach5"
+            android:layout_width="478.5px"
+            android:layout_height="169.5px"
+            android:layout_x="690px"
+            android:layout_y="351px"
+            android:clickable="true"
+            android:src="@drawable/ach_5_1" />
+
+        <ImageView
+            android:id="@+id/ach6"
+            android:layout_width="496.5px"
+            android:layout_height="129px"
+            android:layout_x="1237.5px"
+            android:layout_y="394.5px"
+            android:clickable="true"
+            android:src="@drawable/ach_6_1" />
+
+        <ImageView
+            android:id="@+id/ach7"
+            android:layout_width="483px"
+            android:layout_height="226.5px"
+            android:layout_x="126px"
+            android:layout_y="550.5px"
+            android:clickable="true"
+            android:src="@drawable/ach_7_1" />
+
+        <ImageView
+            android:id="@+id/ach8"
+            android:layout_width="492px"
+            android:layout_height="184.5px"
+            android:layout_x="675px"
+            android:layout_y="525px"
+            android:clickable="true"
+            android:src="@drawable/ach_8_1" />
+
+        <ImageView
+            android:id="@+id/ach9"
+            android:layout_width="564px"
+            android:layout_height="271.5px"
+            android:layout_x="1200px"
+            android:layout_y="532.5px"
+            android:clickable="true"
+            android:src="@drawable/ach_9_1" />
+
+        <ImageView
+            android:id="@+id/ach10"
+            android:layout_width="678px"
+            android:layout_height="295.5px"
+            android:layout_x="592.5px"
+            android:layout_y="780px"
+            android:clickable="true"
+            android:src="@drawable/ach101" />
+
+</AbsoluteLayout>

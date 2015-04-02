@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Jump  Ball</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="easy">easy</string>
+    <string name="hard">hard</string>
+    <string name="crazy">crazy</string>
+    <string name="mode">M\no\nd\ne\n</string>
+    <string name="score">R\na\nn\nk\n</string>
+    <string name="help">H\ne\nl\np\n</string>
+    <string name="exit">E\nx\ni\nt\n</string>
+    <string name="logo1">Game</string>
+    <string name="logo2">Studio</string>
+</resources>

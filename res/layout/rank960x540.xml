@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>  
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android" 
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="@drawable/rank"
+        >
+
+        <Button
+            android:id="@+id/back"
+            android:layout_width="70dip"
+            android:layout_height="30dp"
+            android:layout_x="825px"
+            android:layout_y="15px"
+            android:background="@null" />
+
+        <Button
+            android:id="@+id/share"
+            android:layout_width="70dip"
+            android:layout_height="30dp"
+            android:layout_x="412px"
+            android:layout_y="15px"
+            android:background="@drawable/share" />
+
+        <Button
+            android:id="@+id/easy"
+            android:layout_width="300dp"
+            android:layout_height="30dp"
+            android:layout_x="465px"
+            android:layout_y="188px"
+            android:background="@null"
+            android:textColor="#000000"
+            android:textSize="20sp" />
+
+        <Button
+            android:id="@+id/hard"
+            android:layout_width="300dp"
+            android:layout_height="30dp"
+            android:layout_x="465px"
+            android:layout_y="225px"
+            android:background="@null"
+            android:textColor="#000000"
+            android:textSize="20sp" />
+
+        <Button
+            android:id="@+id/crazy"
+            android:layout_width="300dp"
+            android:layout_height="30dp"
+            android:layout_x="465px"
+            android:layout_y="263px"
+            android:background="@null"
+            android:textColor="#000000"
+            android:textSize="20sp" />
+
+        <Button
+            android:id="@+id/bird"
+            android:layout_width="300dp"
+            android:layout_height="30dp"
+            android:layout_x="465px"
+            android:layout_y="300px"
+            android:background="@null"
+            android:textColor="#000000"
+            android:textSize="20sp" />
+
+        <Button
+            android:id="@+id/ghost"
+            android:layout_width="300dp"
+            android:layout_height="30dp"
+            android:layout_x="465px"
+            android:layout_y="338px"
+            android:background="@null"
+            android:textColor="#000000"
+            android:textSize="20sp" />
+
+        <Button
+            android:id="@+id/turnplate"
+            android:layout_width="300dp"
+            android:layout_height="30dp"
+            android:layout_x="465px"
+            android:layout_y="375px"
+            android:background="@null"
+            android:textColor="#000000"
+            android:textSize="20sp" />
+
+        <Button
+            android:id="@+id/bluetooth"
+            android:layout_width="300dp"
+            android:layout_height="30dp"
+            android:layout_x="465px"
+            android:layout_y="412px"
+            android:background="@null"
+            android:textColor="#000000"
+            android:textSize="20sp" />
+       
+</AbsoluteLayout>
+

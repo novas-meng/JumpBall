@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/start_back" >
+
+        <ImageView
+            android:id="@+id/mode"
+            android:layout_y="100px"
+            android:layout_x="1570px"
+            android:layout_width="265px"
+            android:layout_height="165px"
+            android:clickable="true"
+            android:src="@drawable/start_start"
+             />
+
+        <ImageView
+            android:id="@+id/score"
+            android:layout_x="1570px"
+            android:layout_y="338px"
+            android:layout_width="265px"
+            android:layout_height="165px"
+            android:clickable="true"
+            android:src="@drawable/start_rank" />
+        <ImageView
+            android:id="@+id/help"
+             android:layout_x="1570px"
+            android:layout_y="580px"
+            android:layout_width="265px"
+            android:layout_height="165px"
+            android:clickable="true"
+            android:src="@drawable/start_ach"/>
+
+        <ImageView
+            android:id="@+id/exit"
+            android:layout_x="1570px"
+            android:layout_y="810px"
+            android:layout_width="265px"
+            android:layout_height="165px"
+            android:clickable="true"
+            android:src="@drawable/start_exit" />
+
+</AbsoluteLayout>
